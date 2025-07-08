@@ -13,4 +13,5 @@ The Subscription Tracker API is a backend application built with Node.js and Exp
 - **Upstash Workflow** — automation of background tasks and reminders
 - **Day.js** — convenient date and time manipulation
 - **Mongoose** — ODM for MongoDB
-- **Custom error handling middleware** — centralized
+- **Custom error handling middleware** — centralized error processing
+- **Email notifications** — sending reminders and notifications to users
